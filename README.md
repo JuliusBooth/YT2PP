@@ -10,6 +10,6 @@ Steps:
 4. Use chatgpt to get presentation json
 5. Create powerpoint from json
 
-![presentation image 1](http://url/to/img.png)
+![presentation image 1](assets/how to make a good powerpoint.001.jpeg)
 
-![presentation image 2](http://url/to/img.png)
+![presentation image 2](assets/how to make a good powerpoint.002.jpeg)
