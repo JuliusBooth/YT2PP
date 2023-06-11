@@ -1,0 +1,8 @@
+moviepy==1.0.3
+openai==0.27.7
+openai-whisper==20230314
+python-dotenv==1.0.0
+python-pptx==0.6.21
+python-unsplash==1.1.0
+pytube==15.0.0
+whisper-timestamped==1.12.20
