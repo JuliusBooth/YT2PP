@@ -32,6 +32,6 @@ def youtube_to_powerpoint(title, url):
     create_presentation(title, lecture_bullets)
 
 if __name__ == "__main__":
-    pp_title = "mike cassidy"
+    pp_title = "how to make a good powerpoint"
     video_url = "https://www.youtube.com/watch?v=grJ0FbpfvOw"
     youtube_to_powerpoint(pp_title, video_url)
